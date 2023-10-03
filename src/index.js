@@ -1,3 +1,4 @@
 import './style.css';
+import {loadDOM} from './DOMloader.js';
 
-console.log('Hello World!');
+loadDOM();
